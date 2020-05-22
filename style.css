@@ -1,0 +1,342 @@
+.logo {
+    height:400px;
+    width:400px;
+    position:absolute;
+    right:150px;
+    bottom:300px;
+}
+
+.Title {
+    position: absolute;
+    right: 20px;
+    top:50px;
+    color:white;
+    text-align:center;
+    width:50%;
+    font-family:"montseratt";
+    font-weight:900;
+}
+/* Feature Header */
+
+.feature { 
+    text-align: center;
+}
+
+body {
+    font-family:"montseratt";
+    font-weight:900;
+    background-color:#EAF6F6;
+}
+
+/* Navbar */
+
+.navbar-brand {
+    font-size:2.5rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+.nav-item {
+    padding:0 10px;
+}
+/* Background for the middle container AKA Features */
+.feature-box {
+    padding:20px;
+}
+
+.head-box {
+    background-color:#557A95;
+    padding-top:4px;
+    padding-bottom:10px;
+}
+/* Hush Logo In Header */
+
+.Logo {
+    margin-left: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: 0.75rem;
+    color:#8f8f8f;
+}
+
+.feature-img {
+    width:200px;
+    height:200px;
+}
+
+.fas {
+    color:#ef8172;
+}
+
+.fas:hover {
+    color:#ff4c68;
+}
+
+.featurebox2 {
+
+}
+
+h3 {
+    font-size:1.5rem;
+    font-family: "montseratt";
+    font-weight:bold;
+    
+}
+
+#features {
+    padding: 7% 15%;
+    background-color:#EAF6F6;	
+    position:relative;
+}
+
+.icon {
+    margin-bottom: .5rem;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color:#ef8172; 
+    color:#fff;
+}
+
+.testimonial-text {
+    font-size:2.5rem;
+}
+
+.test-img {
+    height:200px;
+    width:200px;
+    border-radius:100%;
+    margin:20px;
+}
+
+h1 {
+    font-family: "Montseratt-Bold";
+    font-weight:900;
+    text-align: center;
+    margin-top:20px;
+    color:black;
+}
+
+h2 {
+    font-family: "Montseratt-Bold";
+    font-weight:900;
+    font-size:3rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+.color-p {
+    color:#fff;
+    font-weight:bold;
+
+}
+
+/* Pricing Section */
+#pricing {
+    padding:20px;
+    background-color: #EAF6F6;
+}
+
+.pricing-column {
+    padding:3% 2%;
+}
+
+.card-h3 {
+    font-weight:bold;
+    font-size:2rem;
+}
+
+.second-box {
+    padding:20px;
+    text-align:center;
+    background-color: #EAF6F6;
+}
+
+.logo-img {
+    margin-top:50px;
+}
+
+.nice-img {
+    margin-left:50px;
+}
+
+.logo-img2 {
+    margin-right:700px;
+    margin-top:400px;
+}
+
+.top {
+    color:white;
+}
+
+.logo-img3 {
+    margin-left:900px;
+}
+
+.promo {
+    width:30%;
+    margin-left:150px;
+}
+
+.date {
+    margin-left:1000px;
+    margin-top:20px;
+    color:#fff;
+}
+
+.logo-img4 {
+    margin-left:800px;
+}
+
+.logo-img5 {
+    margin-left:800px;
+}
+
+.rcorners2 {
+    border-radius: 25px;
+    border: 2px solid rgb(29, 42, 114);
+    padding: 20px;
+    width: 500px;
+    height: 125px;
+
+}
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 5px;
+    width: 5%;
+    margin: 40px auto 40px auto;
+
+}
+
+#business {
+    background-color:#EAF6F6;
+}
+
+#residents {
+    background-color: #EAF6F6;
+}
+
+#news {
+    background-color: #EAF6F6;
+}
+
+.center {
+    margin-left:350px;
+}
+
+.center2 {
+    margin-left:180px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding:50px;
+    line-height:3em;
+}
+
+.color {
+    color:#EAF6F6;
+    font-size:0.625rem;
+}
+
+.nav2 {
+    word-spacing: 2em;
+    font-size: 0.75rem;
+    margin-left:410px;
+}
+
+
+.contact-me {
+    line-height: 3em;
+    margin-bottom:40px;
+}
+
+
+.btn2 {
+
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:16px;
+	-moz-border-radius-topleft:16px;
+	border-top-left-radius:16px;
+	-webkit-border-top-right-radius:16px;
+	-moz-border-radius-topright:16px;
+	border-top-right-radius:16px;
+	-webkit-border-bottom-right-radius:16px;
+	-moz-border-radius-bottomright:16px;
+	border-bottom-right-radius:16px;
+	-webkit-border-bottom-left-radius:16px;
+	-moz-border-radius-bottomleft:16px;
+	border-bottom-left-radius:16px;
+text-indent:0;
+	border:1px solid #1479d1;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+    text-shadow:0px 1px 0px #2f6627;
+    margin-left:560px;
+    
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+    background-color:#11999e;
+    
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.a2 {
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.header3 {
+    font-family:'Montserrat', sans-serif;
+    color:#66BFBF;
+    font-weight:normal;
+    font-size: 2.5rem;
+}
+h1 {
+font-family: 'Montserrat', sans-serif;
+margin: 50px auto 0 auto;
+}
+.logo-img6 {
+    margin-left:500px;
+}
+
+.help {
+    margin-top:800px;
+}
+
+.promo3 {
+    width:70%;
+    padding:10px;
+}
+
+.logo-img9 {
+    margin-left:800px;
+}
